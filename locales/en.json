@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "name": "English"
+  },
+  "menu": {
+    "subtitle": "The Phase Walker",
+    "tagline": "One world, two realities. Learn to slip between Light and Shadow.",
+    "play": "Play",
+    "howto": "How to play",
+    "quit": "Quit",
+    "lang": "Language",
+    "best": "Best time"
+  },
+  "howto": {
+    "title": "How to play",
+    "move": "Move",
+    "jump": "Jump",
+    "phase": "Shift phase",
+    "pause": "Pause",
+    "mute": "Mute",
+    "goal": "Goal: reach the portal at the end. Cyan platforms exist only in the Light, magenta ones only in the Shadow. Shift at the right moment to cross.",
+    "back": "Back"
+  },
+  "hud": {
+    "shards": "Shards",
+    "time": "Time",
+    "deaths": "Deaths",
+    "phase": "Phase",
+    "lumen": "Light",
+    "umbra": "Shadow"
+  },
+  "pause": {
+    "title": "Paused",
+    "resume": "Resume",
+    "restart": "Restart",
+    "menu": "Main menu"
+  },
+  "win": {
+    "title": "Level complete!",
+    "subtitle": "You reached the portal.",
+    "time": "Time",
+    "shards": "Shards",
+    "deaths": "Deaths",
+    "rank": "Rank",
+    "replay": "Play again",
+    "menu": "Main menu"
+  },
+  "hint": {
+    "move": "Use arrows or A/D to move, Space to jump.",
+    "phase": "Press SHIFT to switch between Light and Shadow.",
+    "blocked": "Can’t shift here: you would be stuck in a wall.",
+    "checkpoint": "Checkpoint reached."
+  },
+  "quit": {
+    "title": "Thanks for playing!",
+    "body": "You can safely close this tab."
+  },
+  "start": {
+    "go": "START",
+    "goal": "PORTAL"
+  },
+  "level": {
+    "label": "Level",
+    "select": "Levels",
+    "next": "Next level",
+    "name1": "First Steps",
+    "name2": "Cadence",
+    "name3": "The Void",
+    "allComplete": "All levels complete!",
+    "allCompleteMsg": "Well done — you crossed every phase of the fractured world."
+  }
+}
